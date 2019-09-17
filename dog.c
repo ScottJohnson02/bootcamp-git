@@ -1,10 +1,15 @@
 puppy
 canine
 wolf
-bark
+bark 
 bow wow
-brown
-white
-black
-grey
-husky
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
